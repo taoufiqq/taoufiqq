@@ -19,7 +19,7 @@ Languages and Tools:
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/6181431?s=280&v=4"></code>
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoufiqq)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taoufiqq&show_icons=true)  
 
