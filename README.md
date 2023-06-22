@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Taoufiq ELHANCHAOUI
-####  I am Full stack Developer | Student at YouCode Safi
+####  I am Full stack Developer
 
 ![Profile views](https://gpvc.arturio.dev/taoufiqq) <a href="https://github.com/taoufiqq"><img src="https://img.shields.io/github/followers/taoufiqq?label=Follow&style=social"></a> <a href="https://twitter.com/ELHANCHAOUITao2"><img src="https://img.shields.io/twitter/follow/ELHANCHAOUITao2?style=social"></a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/taoufiqq)  
